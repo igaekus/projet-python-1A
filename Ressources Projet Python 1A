@@ -1,0 +1,16 @@
+Ressources Projet Python 1A
+
+Indicateurs sur les stocks : 
+https://github.com/peerchemist/finta/tree/master/finta
+
+Tuto RandomForestClassifier :
+https://www.datacamp.com/community/tutorials/random-forests-classifier-python
+
+Exemple d'Algo de Trading :
+https://github.com/robertmartin8/MachineLearningStocks/blob/master/stock_prediction.py
+
+Tuto sklearn: 
+https://scikit-learn.org/stable/getting_started.html
+
+Pour importer les données sur les stocks:
+https://pypi.org/project/yfinance/
