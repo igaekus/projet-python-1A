@@ -1,4 +1,7 @@
 # projet-python-1A
+
+Le modèle utilisé dans data_viz.ypnb est le modèle SVR
+
 Tuto RandomForestClassifier :
 https://www.datacamp.com/community/tutorials/random-forests-classifier-python
 
