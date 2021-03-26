@@ -14,6 +14,8 @@ https://scikit-learn.org/stable/getting_started.html
 Pour importer les données sur les stocks:
 https://pypi.org/project/yfinance/
 
+Pour les données macro sur les companies : 
+https://pypi.org/project/finpie/
 
 Indicateurs sur les stocks : 
 https://github.com/peerchemist/finta/tree/master/finta
