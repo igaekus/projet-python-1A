@@ -1,26 +1,28 @@
 # projet-python-1A
 
-Le modèle utilisé dans data_viz.ypnb est le modèle SVR
+This project goal is to implement an algorithm capable of forecasting the variations of a stocks at month+1. The algorithm shall use Machine Learning and Data science techniques to reach its goal. The purpose is only educational and it should not be used for commercial purposes, as the outcome fiability is not guarranted. For any questions, please contact us via mail at : lucas.saban@ensae.fr or helena.perrier@ensae.fr.
+
+The model used in data_viz.ypnb is the SVR model from the library sklearn. The hyperparameters are kernel = "linear and kernel = "rbf". In the end, the Lasso module is implemented for testing.
 
 Tuto RandomForestClassifier :
 https://www.datacamp.com/community/tutorials/random-forests-classifier-python
 
-Exemple d'Algo de Trading :
+Algotrading example:
 https://github.com/robertmartin8/MachineLearningStocks/blob/master/stock_prediction.py
 
-Tuto sklearn: 
+Sklearn docs: 
 https://scikit-learn.org/stable/getting_started.html
 
-Pour importer les données sur les stocks:
+Module used to import stocks datar:
 https://pypi.org/project/yfinance/
 
-Pour les données macro sur les companies : 
+Macro-data source : 
 https://pypi.org/project/finpie/
 
-Indicateurs sur les stocks : 
+Stocks indicators: 
 https://github.com/peerchemist/finta/tree/master/finta
 
-Indicateurs dispo(80+):
+Available Indicators (80+):
 * Simple Moving Average 'SMA'
 * Simple Moving Median 'SMM'
 * Smoothed Simple Moving Average 'SSMA'
