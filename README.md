@@ -22,7 +22,7 @@ https://pypi.org/project/finpie/
 Stocks indicators: 
 https://github.com/peerchemist/finta/tree/master/finta
 
-Note for myself : check https://github.com/kernc/backtesting.py
+Note to myself : check https://github.com/kernc/backtesting.py , https://medium.com/analytics-vidhya/ml-classification-algorithms-to-predict-market-movements-and-backtesting-2382fdaf7a32
 
 Available Indicators (80+):
 * Simple Moving Average 'SMA'
