@@ -22,6 +22,8 @@ https://pypi.org/project/finpie/
 Stocks indicators: 
 https://github.com/peerchemist/finta/tree/master/finta
 
+Note for myself : check https://github.com/kernc/backtesting.py
+
 Available Indicators (80+):
 * Simple Moving Average 'SMA'
 * Simple Moving Median 'SMM'
