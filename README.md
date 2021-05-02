@@ -1,6 +1,7 @@
 # projet-python-1A
 
-#README NOT UP TO DATE
+# README NOT UP TO DATE
+
 This project goal is to implement an algorithm capable of forecasting the variations of a stocks at month+1. The algorithm shall use Machine Learning and Data science techniques to reach its goal. The purpose is only educational and it should not be used for commercial purposes, as the outcome fiability is not guarranted. For any questions, please contact us via mail at : lucas.saban@ensae.fr or helena.perrier@ensae.fr.
 
 The model used in data_viz.ypnb is the SVR model from the library sklearn. The hyperparameters are kernel = "linear and kernel = "rbf". In the end, the Lasso module is implemented for testing.
